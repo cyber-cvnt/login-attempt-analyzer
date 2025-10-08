@@ -1,0 +1,8 @@
+Oct  6 10:21:34 server sshd[1234]: Failed password for invalid user admin from 192.168.1.101 port 42212 ssh2
+Oct  6 10:22:12 server sshd[1245]: Failed password for root from 192.168.1.101 port 42216 ssh2
+Oct  6 10:23:01 server sshd[1267]: Failed password for root from 192.168.1.105 port 42222 ssh2
+Oct  6 10:23:55 server sshd[1300]: Accepted password for user1 from 192.168.1.105 port 42229 ssh2
+Oct  6 10:25:10 server sshd[1355]: Failed password for invalid user guest from 192.168.1.101 port 42233 ssh2
+Oct  6 10:30:01 server sshd[1390]: Failed password for invalid user test from 192.168.1.200 port 42239 ssh2
+Oct  6 10:31:44 server sshd[1420]: Failed password for root from 192.168.1.101 port 42241 ssh2
+Oct  6 10:32:11 server sshd[1425]: Accepted password for user2 from 192.168.1.150 port 42244 ssh2
